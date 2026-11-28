@@ -8,3 +8,6 @@ Here are the first few articles:
 
 1. Solutions to Three Spline-Related Conjectures.
 [PDF](Papers/001_ATconjectures.pdf)
+
+2. Success of Weak Orthogonal Matching Pursuits: an Elementary Proof under a Weak Restricted Isometry Property.
+[PDF] (Papers/002_OMP_RIP.pdf)
